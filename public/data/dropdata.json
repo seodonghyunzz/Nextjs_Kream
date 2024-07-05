@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "url":"/drop/drop1.webp",
+        "brand":"LELBOBROWN",
+        "detail":"Lelbobrown Oversize Keyring Delicius",
+        "price":"56,000원",
+        "isShopBrand":true
+    },
+    {
+        "id":2,
+        "url":"/drop/drop2.webp",
+        "brand":"Nike",
+        "detail":"Nike Air Force 1 '07 LX Black",
+        "price":"190,000원",
+        "isShopBrand":false
+    },
+    {
+        "id":3,
+        "url":"/drop/drop3.webp",
+        "brand":"ULDD",
+        "detail":"[KREAM 단독] ULDD Anya Knit Pink",
+        "price":"73,000원",
+        "isShopBrand":true
+    },
+    {
+        "id":4,
+        "url":"/drop/drop4.webp",
+        "brand":"Swatch",
+        "detail":"Swatch x Omega x Snoopy Bioceramic Moonswatch Misson To The Moonphase New Moon",
+        "price":"799,000원",
+        "isShopBrand":false
+    },
+    {
+        "id":5,
+        "url":"/drop/drop5.webp",
+        "brand":"Hype Clothing",
+        "detail":"Supreme Overprint Knowledge S/S Top Navy",
+        "price":"182,700원",
+        "isShopBrand":true
+    },
+    {
+        "id":6,
+        "url":"/drop/drop6.webp",
+        "brand":"Palace",
+        "detail":"Palace Italia Zip Funnel Black - 24ss",
+        "price":"399,000원",
+        "isShopBrand":false
+    },
+    {
+        "id":7,
+        "url":"/drop/drop7.webp",
+        "brand":"Nos Couleurs",
+        "detail":"Nos Couleurs Check Bite Shirts Mustard",
+        "price":"169,000원",
+        "isShopBrand":true
+    },
+    {
+        "id":8,
+        "url":"/drop/drop8.webp",
+        "brand":"Safarispot",
+        "detail":"Safarispot 1/2 Basic SafariTee Charcoal",
+        "price":"55,000원",
+        "isShopBrand":true
+    },
+    {
+        "id":9,
+        "url":"/drop/drop9.webp",
+        "brand":"The Garment",
+        "detail":"The Garment X Giaborghini Women Grete Cream",
+        "price":"480,200원",
+        "isShopBrand":true
+    },
+    {
+        "id":10,
+        "url":"/drop/drop10.webp",
+        "brand":"Human Made",
+        "detail":"Human Made Graphic T-Shirt #07 Black",
+        "price":"132,000원",
+        "isShopBrand": false
+    },
+    {
+        "id":11,
+        "url":"/drop/drop11.webp",
+        "brand":"Nike",
+        "detail":"Nike Air Zoom Spiridon Cage 2 Metallic silver",
+        "price":"243,000원",
+        "isShopBrand": false
+    },
+    {
+        "id":12,
+        "url":"/drop/drop12.webp",
+        "brand":"Nike",
+        "detail":"Nike X Matthew M Williams NRG Clup Cap Black",
+        "price":"50,000원",
+        "isShopBrand": false
+    },
+    {
+        "id":13,
+        "url":"/drop/drop13.webp",
+        "brand":"Stussy",
+        "detail":"Stussy June Sunglasses Black Black Lens",
+        "price":"268,000원",
+        "isShopBrand": false
+    },
+    {
+        "id":14,
+        "url":"/drop/drop14.webp",
+        "brand":"Scarpa",
+        "detail":"Scarpa Ribelle Run GTX Black Black",
+        "price":"275,500원",
+        "isShopBrand":true
+    },
+    {
+        "id":15,
+        "url":"/drop/drop15.webp",
+        "brand":"Asics",
+        "detail":"Asics Gel-Kayano 14 Cream Black",
+        "price":"265,000원",
+        "isShopBrand": false
+    }
+]
